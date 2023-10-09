@@ -1,0 +1,19 @@
+.cabecalho{
+background-color: blue;
+display: flex;
+}
+.receitaruim{
+    width: 100px;
+    margin-left: 120px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 500px;
+}
+.item_lista_cabecalho{
+    color: rgb(86, 226, 43);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 15px;
+}
